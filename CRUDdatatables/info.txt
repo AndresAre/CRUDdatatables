@@ -1,0 +1,6 @@
+NOTA:
+
+Toca incluir a la tabla de la BD el autoincrementable 1
+
+Sentencia:
+	alter table `usuarios` auto_increment = 1
